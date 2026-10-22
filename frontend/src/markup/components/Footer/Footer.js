@@ -16,7 +16,7 @@ function Footer(props) {
                     <span className="flaticon-pin"></span>
                   </div>
                   <div className="text">
-                    Akaki Kality, <br /> Addis Ababa, Ethiopia
+                    Abegarage Building, <br /> Alexandria, Virginia, USA
                   </div>
                 </div>
               </div>
@@ -29,8 +29,8 @@ function Footer(props) {
                   </div>
                   <div className="text">
                     Email us : <br />{" "}
-                    <Link to="mailto:contact.contact@autorex.com">
-                      g3autorepair@yahoo.com
+                    <Link to="mailto:teke26078@gmail.com">
+                      teke26078@gmail.com
                     </Link>
                   </div>
                 </div>
@@ -44,7 +44,7 @@ function Footer(props) {
                   </div>
                   <div className="text">
                     Call us on : <br />
-                    <strong>+251713829204</strong>
+                    <strong>+1571-669-8908</strong>
                   </div>
                 </div>
               </div>

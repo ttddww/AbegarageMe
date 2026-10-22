@@ -64,12 +64,12 @@ function Header() {
               {isLogged ? (
                 <div className="link-btn">
                   <div className="phone-number">
-                    <strong>Welcome :){employee?.employee_first_name}</strong>
+                    <strong>Welcome :- {employee?.employee_first_name}</strong>
                   </div>
                 </div>
               ) : (
                 <div className="phone-number">
-                  Schedule Appointment: <strong>+251713829204</strong>
+                  Schedule Appointment: <strong>+1571-669-8908</strong>
                 </div>
               )}
             </div>
